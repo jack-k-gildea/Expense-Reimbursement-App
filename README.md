@@ -21,6 +21,7 @@ The Expense Reimbursement App will manage the process of reimbursing employees f
 
 ## Other Repositories
 - Project2: Ourspace Social Media
-  - https://github.com/gabrielgil245/ourspace-server
+  - BackEnd: https://github.com/gabrielgil245/ourspace-server
+  - FrontEnd: https://github.com/gabrielgil245/ourspace-client
 - Project3: Ocean Social Media
-  - https://github.com/Ocean-Social-Media-App/Frontend
+  - Organization: https://github.com/Ocean-Social-Media-App
